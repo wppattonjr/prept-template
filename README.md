@@ -2,7 +2,7 @@
 
 ## Template for Prept Application
 
-#### • Create firebase for the project and upload the json file provided to the database. 
+#### • Create firebase for the project and upload the json file provided to the database ** check rules
 
 #### • npm install react, react-strap and react-router-dom
 
