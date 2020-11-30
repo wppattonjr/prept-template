@@ -6,4 +6,4 @@
 
 #### npm install react, react-strap and react-router-dom
 
-#### After class instruction, look through issue tickets and complete in order
+#### After class instruction, look through issue tickets and complete in numbered order
