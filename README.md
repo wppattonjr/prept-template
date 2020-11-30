@@ -1,4 +1,4 @@
-# Prept
+# PREPT
 
 ## Template for Prept Application
 
